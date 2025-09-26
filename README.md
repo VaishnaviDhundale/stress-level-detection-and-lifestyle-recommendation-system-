@@ -28,7 +28,7 @@ stress_dataset.csv
 **Installation & Setup**
 
 Clone this repository:
-git clone https://github.com/YourUsername/stress-level-detection.git
+git clone https://github.com/VaishnaviDhundale/stress-level-detection-and-lifestyle-recommendation-system.git
 cd stress-level-detection
 
 Install dependencies:
